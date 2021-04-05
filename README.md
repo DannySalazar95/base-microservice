@@ -13,8 +13,8 @@
 
 Tecnologías, herramientas o lenguajes que se utilizaron:
 
-- Zuul Server - Spring boot [ Api Gateway ].
+- [Zuul Server - Spring boot](https://github.com/DannySalazar95/base-repository-zuul) [ Api Gateway ].
 - Eureka server - Spring boot.
-- [Authorization service]() [ Desarrollado con laravel 8 y passport ].
-- [Book service](https://laravel.com/docs/broadcasting) [ Desarrollado con laravel 8 y JWT].
+- [Authorization service](https://github.com/DannySalazar95/base-microservice-zuul) [ Desarrollado con laravel 8 y passport ].
+- [Book service](https://github.com/DannySalazar95/base-microservice-book-service) [ Desarrollado con laravel 8 y JWT].
 
